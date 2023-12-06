@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposeInstagram</string>
+    <string name="placeholder_email">Phone number, username or email</string>
+    <string name="placeholder_password">Password</string>
+</resources>
